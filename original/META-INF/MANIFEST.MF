@@ -1,0 +1,65 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: tGC2VkAFhUwaRS70kclZmKlzZCkYTAxucX3zijJn5ro=
+
+Name: classes.dex
+SHA-256-Digest: VI9HK1q9b1lKOmwDl5bLZmMlSZBAjGMTHFKSDzNC5O4=
+
+Name: res/drawable/bg_btn_filled.xml
+SHA-256-Digest: 0WHzRtNgBe2rtwf165jCqzacdNb6MEV+EyXucPJeSTs=
+
+Name: res/drawable/bg_btn_tonal.xml
+SHA-256-Digest: ISvbwQ8n3wacA7+MVf2/ZuYW+nOLfQXwVxByOUF5WEU=
+
+Name: res/drawable/bg_card.xml
+SHA-256-Digest: WKpI/r6iD1QOwoCkUNgatuUuE4x15OIAYFX8mx8iOLM=
+
+Name: res/drawable/bg_chip.xml
+SHA-256-Digest: MBGF2bjJ6qDXD/DbWJ+k/OjFOxPyKg+w3z3e2uQL+Hg=
+
+Name: res/drawable/bg_stat_pill.xml
+SHA-256-Digest: wtiH/z65jIxAbwEa+N7HqVLK5UA5Rg2eTxAqfeCO+/I=
+
+Name: res/drawable/ic_arrow_up.xml
+SHA-256-Digest: J6fMEbQqlkvuIhfayoMrS0i3bHHSiimtQDL2aDBQQZc=
+
+Name: res/drawable/ic_folder.xml
+SHA-256-Digest: 9ZCNvY6T/ncQVFIMHGxI6gbpX5j6/nCpgfmgAMbx3Hs=
+
+Name: res/drawable/ic_stat_folder.xml
+SHA-256-Digest: 9ZCNvY6T/ncQVFIMHGxI6gbpX5j6/nCpgfmgAMbx3Hs=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: Joxiqdmu0gzgPPphmex6riSBcbppsHyS6uP6P9Fml9I=
+
+Name: res/layout/dialog_picker.xml
+SHA-256-Digest: KppOg3qjrFksg5R6WusLmVIn8Js4WqKFJchN6tK7C9E=
+
+Name: res/layout/dialog_rule.xml
+SHA-256-Digest: Uq54yOWc7U5qOv3mdoWRTMJZCkAv1xo8fo2xIz/+AaY=
+
+Name: res/layout/item_dir.xml
+SHA-256-Digest: Yy0VEEL4pr3WERzBLx9F6nLxBmz6MKduFa3YLCoi7H8=
+
+Name: res/layout/item_rule.xml
+SHA-256-Digest: KxkP8XHnb5Y4asQf/SE+DKT7zLkKjYwSWU9xn4szZSA=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: yRDaqql95TjcSFYJxWVhkSYbJzGQGnuK/zz57AzAj60=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: SJIri591ReheqhTv6D1r3DijaPku70WrEP1iY97DpN0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: Ib7Z1JvrCT4y3Zb88fV45FH3cZ54Ykt7px24zYiugyM=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 8ReUJVIRKT+Cdl54peJaCnfTik//HLarGazeJDNBUMM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: BqOOtt3Y7m13QQmcBeXXpwQ0f3QnCjrykDcTcgnAO9o=
+
+Name: resources.arsc
+SHA-256-Digest: OfNwC7MQ2al5w+BM9hib91W0h4L6b+eP1QMTPKBSw7M=
+

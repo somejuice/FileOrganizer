@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#ff111318</color>
+    <color name="chipBg">#ff2c4292</color>
+    <color name="chipText">#ffd8e1ff</color>
+    <color name="onPrimary">#ff12275f</color>
+    <color name="onPrimaryContainer">#ffdce4ff</color>
+    <color name="outline">#ff3b414e</color>
+    <color name="primary">#ffb3c5ff</color>
+    <color name="primaryContainer">#ff2c4292</color>
+    <color name="surface">#ff1a1d25</color>
+    <color name="textMain">#ffe6e8f0</color>
+    <color name="textSub">#ff9ca3b5</color>
+</resources>

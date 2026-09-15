@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文件整理器</string>
+    <string name="noti_channel">后台整理服务</string>
+    <string name="noti_channel_desc">文件整理器常驻运行状态通知</string>
+    <string name="noti_title">文件整理器运行中</string>
+</resources>

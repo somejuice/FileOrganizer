@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:paddingTop="18.0dip"
+    android:paddingBottom="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="24.0dip"
+    android:paddingEnd="24.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textSize="24.0sp"
+        android:textColor="@color/textMain"
+        android:id="@id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium" />
+    <com.arena.fileorganizer.M3TextField
+        android:id="@id/field_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16.0dip" />
+    <TextView
+        android:textSize="12.0sp"
+        android:textColor="@color/textSub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8.0dip"
+        android:text="点击列表进入子目录 · 输入路径后按回车跳转" />
+    <ListView
+        android:id="@id/lv_dirs"
+        android:layout_width="fill_parent"
+        android:layout_height="340.0dip"
+        android:layout_marginTop="6.0dip"
+        android:divider="@null"
+        android:dividerHeight="0.0dip" />
+</LinearLayout>

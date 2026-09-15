@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="btn_add_rule" />
+    <item type="id" name="btn_browse" />
+    <item type="id" name="btn_default_rules" />
+    <item type="id" name="btn_perm" />
+    <item type="id" name="btn_pick_dir" />
+    <item type="id" name="btn_scan_now" />
+    <item type="id" name="card_dir" />
+    <item type="id" name="card_perm" />
+    <item type="id" name="card_rules" />
+    <item type="id" name="card_service" />
+    <item type="id" name="field_ext" />
+    <item type="id" name="field_folder" />
+    <item type="id" name="field_path" />
+    <item type="id" name="iv_icon" />
+    <item type="id" name="lv_dirs" />
+    <item type="id" name="lv_rules" />
+    <item type="id" name="root" />
+    <item type="id" name="sp_interval" />
+    <item type="id" name="sw_service" />
+    <item type="id" name="tv_dir" />
+    <item type="id" name="tv_ext" />
+    <item type="id" name="tv_folder" />
+    <item type="id" name="tv_header_sub" />
+    <item type="id" name="tv_header_title" />
+    <item type="id" name="tv_name" />
+    <item type="id" name="tv_perm_status" />
+    <item type="id" name="tv_preview" />
+    <item type="id" name="tv_rules_empty" />
+    <item type="id" name="tv_stats" />
+    <item type="id" name="tv_title" />
+</resources>
